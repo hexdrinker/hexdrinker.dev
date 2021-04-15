@@ -2,6 +2,11 @@ body.light {
   background-color: $light-background-color;
   text-shadow: $light-text-shadow;
 
+  .top,
+  .custom-hr {
+    background: $light-theme-gradient;
+  }
+
   // home
   .home-header {
     color: $dark-gray;
@@ -48,15 +53,16 @@ body.light {
     }
   }
 
-  .thumbnail {
+  .post {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 16px 0px;
+    &-body {
+      background: #fff;
+    }
     h3 {
       color: $dark-gray;
     }
     p {
       color: $middle-gray;
-    }
-    &:hover {
-      text-shadow: $light-hover-text-shadow;
     }
   }
 

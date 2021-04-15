@@ -3,6 +3,11 @@ body.dark {
   text-shadow: $dark-text-shadow;
   color: $dark-light-font-color;
 
+  .top,
+  .custom-hr {
+    background: $dark-theme-gradient;
+  }
+
   // home
   .home-header {
     color: $dark-light-font-color;
@@ -49,7 +54,11 @@ body.dark {
     }
   }
 
-  .thumbnail {
+  .post {
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 16px 0px;
+    &-body {
+      background-color: #343a4090;
+    }
     h3 {
       color: $dark-light-font-color;
     }
