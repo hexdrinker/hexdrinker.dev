@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-bee",
+  "name": "hexdrinker.dev",
   "private": true,
-  "description": "Gatsby blog starter template",
+  "description": "hexdrinker's tech blog",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": "hexdrinker[hexdrinker]<hexdrinker2020@gmail.com>",
   "bugs": {
-    "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
+    "url": "https://github.com/hexdrinker/hexdrinker.dev/issues"
   },
   "dependencies": {
     "gatsby": "^2.2.8",
@@ -81,7 +81,7 @@
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
-    "develop": "gatsby develop",
+    "develop": "gatsby clean && gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
