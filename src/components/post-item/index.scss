@@ -11,7 +11,7 @@
     width: calc(50% - 1rem);
   }
   @media (max-width: 719px) {
-    width: 100%;
+    width: calc(100% - 1rem);
   }
 
   &-head {
@@ -46,7 +46,6 @@
       text-overflow: ellipsis;
       overflow: hidden;
       word-break: break-word;
-      // white-space: nowrap;
     }
 
     .post-date {
@@ -82,7 +81,6 @@
     }
 
     .tag {
-      width: auto;
       height: 22px;
       font-size: 10px;
       padding: 2px 8px;
