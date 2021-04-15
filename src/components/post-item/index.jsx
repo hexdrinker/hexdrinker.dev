@@ -4,9 +4,7 @@ import { TARGET_CLASS } from '../../utils/visible'
 
 import './index.scss'
 
-export const PostItem = ({ node }) => {
-  console.log(node);
-  return (
+export const PostItem = ({ node }) => (
   <Link className={`post ${TARGET_CLASS}`} to={node.fields.slug}>
     {node.frontmatter.thumbnail &&
       <div className="post-head" key={node.fields.slug}>
@@ -19,4 +17,4 @@ export const PostItem = ({ node }) => {
       <span className="post-date">{node.frontmatter.date}</span>
     </div>
   </Link>
-)}
+)

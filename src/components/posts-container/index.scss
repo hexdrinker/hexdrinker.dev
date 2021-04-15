@@ -1,4 +1,10 @@
 .posts-container {
   display: flex;
   flex-wrap: wrap;
+  width: 63rem;
+  margin: 0 auto;
+
+  @media (max-width: 1047px) {
+    width: 100%;
+  }
 }
