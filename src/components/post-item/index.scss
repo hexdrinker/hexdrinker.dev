@@ -67,6 +67,36 @@
     height: 57px;
   }
 
+  &-footer {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 1rem;
+    overflow-x: scroll;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    .tag {
+      width: auto;
+      height: 22px;
+      font-size: 4px;
+      padding: 2px 8px;
+      border-radius: 10px;
+      border-width: 1px;
+      border-style: solid;
+      margin-right: 3px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
   p {
     font-size: 14px;
     line-height: 1.4;

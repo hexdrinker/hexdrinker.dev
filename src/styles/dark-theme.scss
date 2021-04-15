@@ -68,6 +68,10 @@ body.dark {
     &:hover {
       text-shadow: $dark-hover-text-shadow;
     }
+    .tag {
+      color: #fab005;
+      border-color: #fab005;
+    }
   }
 
   .footer {

@@ -89,6 +89,7 @@ export const pageQuery = graphql`
             thumbnail
             description
             category
+            tags
             draft
           }
         }

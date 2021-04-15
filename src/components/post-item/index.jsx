@@ -16,5 +16,12 @@ export const PostItem = ({ node }) => (
       <p className="post-description">{node.frontmatter.description}</p>
       <span className="post-date">{node.frontmatter.date}</span>
     </div>
+    {node.frontmatter.tags.length ? (
+      <div className="post-footer">
+        {node.frontmatter.tags.map(tag => (
+          <div className="tag">{tag}</div>
+        ))}
+      </div>
+    ) : null}
   </Link>
 )

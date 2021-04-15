@@ -4,6 +4,17 @@ date: 2020-07-04 12:21:13
 category: 'development'
 thumbnail: 'https://media.vlpt.us/images/hexdrinker/post/00a9c874-ee81-4a24-9100-001dfad75c90/velog_logo.png?w=768'
 description: '이것은 간략한 설명,,, 일 줄 알았지? 줜나 길면 어떻게 나오는지 궁금하니까 일단 써본다 얼마나 길어지는지는 나도 모르겠고 잘 짤려라 제발 😭 이래도 안 잘리면 진짜 어떡하지'
+tags:
+  [
+    '자바',
+    '타입스크립트',
+    '웹',
+    '버그해결',
+    '자바',
+    '타입스크립트',
+    '웹',
+    '버그해결',
+  ]
 draft: false
 ---
 
