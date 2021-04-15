@@ -36,7 +36,7 @@
   }
 
   .author-socials {
-    margin-top: 4px;
+    margin-top: 10px;
   }
 
   a {
@@ -46,6 +46,11 @@
     &.visited {
       text-decoration: none;
     }
+  }
+
+  .social-icon {
+    width: 25px;
+    height: auto;
   }
 }
 

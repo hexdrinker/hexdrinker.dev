@@ -20,6 +20,11 @@ body.dark {
     }
   }
 
+  .social-icon {
+    fill: #aaa;
+    transition: fill 0.6s ease;
+  }
+
   .category-container {
     border-top: 1px solid $dark-category-border-color;
     border-bottom: 1px solid $dark-category-border-color;
