@@ -1,6 +1,6 @@
 module.exports = {
   title: `hexdrinker's DevLog`,
-  description: `Blog posted about ...`,
+  description: `hexdrinker의 기,,기술 블로그임니다..👨🏻‍💻📝🤪`,
   author: `hexdrinker`,
   introduction: `Software Engineer at Backpackr`,
   siteUrl: `https://hexdrinker.dev`, // Your blog site url
