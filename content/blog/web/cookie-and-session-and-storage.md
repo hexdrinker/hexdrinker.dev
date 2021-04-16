@@ -1,7 +1,7 @@
 ---
 title: 쿠키와 세션 그리고 스토리지
 date: 2019-12-22 18:27:13
-category: web
+category: Web
 thumbnail: ''
 description: '헷갈리기 쉬운 쿠키와 세션 그리고 스토리지에 대한 설명'
 tags: ['cookie', 'session', 'web storage', 'local storage', 'session storage']

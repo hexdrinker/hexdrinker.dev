@@ -1,7 +1,7 @@
 ---
 title: 브라우저 역사 이야기
 date: 2019-07-03 13:20:11
-category: web
+category: Web
 thumbnail: ''
 description: '치열한 브라우저 전쟁, 그 역사'
 tags: ['브라우저', '브라우저 역사']

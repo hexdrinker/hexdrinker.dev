@@ -1,7 +1,7 @@
 ---
 title: SOP와 CORS
 date: 2020-03-27 14:03:55
-category: web
+category: Web
 thumbnail: ''
 description: '프론트엔드 개발에서 심심찮게 마주치는 CORS에 대해서'
 tags: ['SOP', 'CORS']
