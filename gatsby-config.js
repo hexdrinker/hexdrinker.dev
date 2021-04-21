@@ -1,4 +1,5 @@
 const metaConfig = require('./gatsby-meta-config')
+require('dotenv').config()
 
 module.exports = {
   siteMetadata: metaConfig,
@@ -109,7 +110,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-s3',
       options: {
-        bucketName: 'hexdrinker.dev'
+        bucketName: process.env.S3_BUCKET_NAME
       }
     },
     `gatsby-transformer-sharp`,

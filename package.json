@@ -2,7 +2,7 @@
   "name": "hexdrinker.dev",
   "private": true,
   "description": "hexdrinker's tech blog",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "hexdrinker[hexdrinker]<hexdrinker2020@gmail.com>",
   "bugs": {
     "url": "https://github.com/hexdrinker/hexdrinker.dev/issues"
@@ -85,6 +85,7 @@
     "develop": "gatsby clean && gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
+    "deploy": "gatsby-plugin-s3 deploy",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }
