@@ -106,6 +106,12 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: 'gatsby-plugin-s3',
+      options: {
+        bucketName: 'hexdrinker.dev'
+      }
+    }
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-feed`,
