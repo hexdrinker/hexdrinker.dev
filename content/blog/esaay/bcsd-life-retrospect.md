@@ -12,11 +12,11 @@ draft: false
 
 서울에 올라와서 인턴 생활을 하던 중 선배의 제안을 받고 코인 개발에 참여한지 어느 새 2년이 지났다.
 
-![BCSD Lab](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/bcsdlab.png)
+![BCSD Lab](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/bcsdlab.png)
 
 아, **[BCSD Lab](https://bcsdlab.com)**은 한국기술교육대학교 IT 동아리이고 **[코인](https://koreatech.in)**은 BCSD Lab에서 만든 학교 학생들을 위한 커뮤니티다.
 
-![KOIN](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/koin.png)
+![KOIN](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/koin.png)
 
 동아리라는 이름이 무색할 정도로 슬랙, 트렐로, git, 구글 드라이브 등을 이용하여 체계도 잘 잡혀있고 프론트엔드, 백엔드, 안드로이드, iOS, UI/UX, 게임 등으로 트랙이 나뉘어 분업도 잘되어있다.
 그래서 대학생 수준에서는 겪기 힘든 레벨의 협업도 가능하고 Lean Startup Model을 표방하여 빠르게 개발을 진행한다.
@@ -31,7 +31,7 @@ draft: false
 당시(17년도 중순에서 말) 유행했던 Angular 2를 조금 공부하면서 프론트엔드 개발에 흥미가 있었지만 이것으로 내가 먹고 살 수 있을지는 의문이었다. 다행히도 인턴을 하면서 AngularJS를 이용한 대시보드, 게시판 프로젝트를 맡게 되었고
 이 경험이 내가 이 일을 해야겠다라고 확신을 주던 계기가 되었다. 그러면서 성장하고 싶다는 욕구가 생겨났다.
 
-![growth](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/growth.png)
+![growth](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/growth.png)
 
 ### 근데 성장을 위해서는 무엇을 해야하는가?
 
@@ -60,7 +60,7 @@ draft: false
 
 말이 동아리였지 작은 스타트업이나 다름이 없었다. Lean Startup Process를 표방하여 빠르게 프로토타입을 찍어내고 피드백을 하여 개선을 하는 것의 반복이었다.
 
-![trello](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/trello.png)
+![trello](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/trello.png)
 
 ~~(2년 전 트렐로이다. 이제는 공개할 수 있다. 지금 와서 보니 또 체계가 부족해보이는 건 사실.)~~
 
@@ -69,20 +69,20 @@ draft: false
 
 많은 회사에서 슬랙, 지라, 아사나 등을 이용하여 업무 공유와 협업을 진행할텐데 만약 혼자서 프로젝트를 진행했다면 이를 경험하긴 힘들지 않았을까 싶다. 최근에는 노션이 많이 쓰이는 거 같은데 관심이 간다. 기회가 되면 이용해보도록 해야겠다(~~갑자기?~~)
 
-![channels](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/slack-channels.png)
+![channels](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/slack-channels.png)
 
 ~~(2년 전 슬랙 채널이다. 이 때는 초기라서 UI/UX 트랙이 아직 없었고 분화가 덜 되었다. 난 이것만 해도 많다고 느꼈는데...)~~
 
 개발 또한 주먹구구가 아니라 트랙(팀)이 나뉘어져 협업을 진행하는 시스템이었다. 나는 프론트엔드 트랙 멤버였고 백엔드와 UI/UX 트랙 멤버와 협업하여 지금의 코인을 개발해왔다. git은 어떻게 쓰는지 알고만 있었고 혼자서 간단하게만 이용해봤는데 여러 이들과
 협업을 하게 되면서 git flow란 것도 이용하며 알게되었다. (~~나는 참 아무 것도 모르는 바보였지 않을까? 맞다~~)
 
-![gitflow](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/gitflow.png)
+![gitflow](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/gitflow.png)
 
 팀으로 활동하다 보니까 자연스럽게 개발 프로세스, 협업하는 방법, 책임감 등을 배우게 되었다. 그럼 기술적인 이야기는?
 
 ### 초기 개발 (2018.01 ~ 2018.06)
 
-![old-koin](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/old-koin.png)
+![old-koin](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/old-koin.png)
 
 (코인의 초기 버전이다. 지금 보니까 부끄럽다,,,,,,,,)
 
@@ -111,7 +111,7 @@ Vue Migration을 거쳐 이런저런 서비스의 런칭도 추가로 이어졌�
 
 사실 코인은 데스크톱, 랩톱 등 PC 환경을 겨냥하여 개발되었고 그래서 모바일 웹 환경을 고려하지 않았기 때문에 모든 화면 전체에 반응형 적용이 필요했다. ~~(이 무슨 청천벽력이야,,)~~
 
-![koin-mobile](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/koin-mobile.jpeg)
+![koin-mobile](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/koin-mobile.jpeg)
 
 모바일 앱과 유사한 디자인으로 반응형 적용이 이뤄졌다. 사실 모바일을 고려하지 않고 개발을 시작해서 그런지 컴포넌트에 아름답게 반응형 코드를 적용하는 것은 힘들었다. 여전히 앞으로도 개선이 필요한 부분이다. <br />
 마음 같아서는 네이버나 페이스북처럼 적응형 웹을 적용하는 건 어떨까 싶다, 한 번 고려해봐야지!
@@ -124,7 +124,7 @@ Svelte라는 흥미로운 프레임워크가 등장하긴 했지만 이는 역�
 나는 19년도 후반기에 들어서 프론트엔드 트랙의 리더가 되었다. 프론트엔드 트랙엔 후배들이 몇 명 들어왔고 이들과 함께 19년도 2학기는 코인의 메인 페이지 디자인 개편 및 검색 서비스 런칭, 어드민 업데이트를 진행했다. 그리고 겨울 방학이 찾아왔고
 대학생인 후배들이 시간을 많이 낼 수 있게되자 이 때가 React Migration을 하기에 적기라는 생각이 들었다. 물론 3명이 2년 가까이 개발한 것을 2달 만에 마이그레이션한다? 될지 안될지 모르겠지만 모든건 해봐야 안다.
 
-![code-review](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/chitchat/code-review.png)
+![code-review](https://images.hexdrinker.dev/essay/bcsdlab-life-retrospect/code-review.png)
 
 2달 반 동안 마이그레이션을 진행했다. 리액트를 다뤄본 적은 있지만 대규모 리액트 프로젝트를 처음 진행했기 때문에 미숙한 점이 많았고 모르는 것도 많았다. 무엇보다 마이그레이션을 빠르게 완료해야 했기 때문에 코드 리뷰를 깃허브를 통해 빡빡하게 진행할 수 없었고 대부분 슬랙으로 소통을 하며 진행한 점이 아쉽다.
 

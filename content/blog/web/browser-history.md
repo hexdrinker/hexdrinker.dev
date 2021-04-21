@@ -21,7 +21,7 @@ MS에서 개발한 인터넷 익스플로러와 엣지, 구글의 크롬, 모질
 NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 개발한 OS이다.
 ```
 
-![mosaic](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/mosaic.png)
+![mosaic](https://images.hexdrinker.dev/web/browser-history/mosaic.png)
 
 그 후 1992년 말을 기점으로 libwww, Line mode Browser, Erwise 등 여러 브라우저가 등장했고 1993년 NCSA의 마크 앤드리슨과 에릭 바나가 개발한 **MOSAIC(모자익)**이라는 이름의 브라우저가 출시했다. 이는 최초로 이미지, 음악 등의 멀티미디어를 바로 표시할 수 있는 기능을 있었고 이는 웹과 브라우저의 대중화를 이끌며 폭발적인 성장을 이룩했다. 이를 계기로 브라우저 전쟁의 시대가 본격적으로 열리게 된다.
 
@@ -29,13 +29,13 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 모자익을 개발한 마크 앤드리슨은 NCSA를 떠나 넷스케이프 커뮤니케이션을 설립했고 모자익 넷스케이프를 개발한다. 이는 1994년 12월 정식 버전으로 발매되면서 **넷스케이프 네비게이터**라는 이름으로 불리게 되었다.
 
-![netscape-navigator](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/netscape-navigator.png)
+![netscape-navigator](https://images.hexdrinker.dev/web/browser-history/netscape-navigator.png)
 
 모자익이 WWW의 부흥을 이끌었다면 넷스케이프 네비게이터는 보다 편리하고 뛰어난 성능을 드러내며 WWW의 활용을 일반화했다고 평가받는다. 당시 여러 브라우저들이 경쟁을 했으나 넷스케이프 네비게이터가 뛰어난 성능과 편의성을 바탕으로 경쟁 브라우저들을 압도하며 브라우저 시장을 정복하고 있었다.
 
 ## 제 1차 브라우저 전쟁 (1996 ~ 2008)
 
-![browser-war1](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/browser-war1.png)
+![browser-war1](https://images.hexdrinker.dev/web/browser-history/browser-war1.png)
 
 스파이글래스 사는 초기 모자익의 기술과 상표 라이센스를 사서 새로운 브라우저를 내놓았지만 큰 주목을 받지 못한다. 하지만 MS에서 이를 사들여 웹 브라우저를 출시하는데 이것이 바로 **인터넷 익스플로러(이하, IE)**이다.
 
@@ -45,7 +45,7 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 넷스케이프 네비게이터도 예외는 아니었고 IE가 있음에도 넷스케이프 네비게이터를 설치해서 사용할 정도로 엄청난 차이가 존재하진 않았다. 이러한 끼워팔기 마케팅에 넷스케이프는 처참하게 추락하게 된다.
 
-![windows98](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/windows98.png)
+![windows98](https://images.hexdrinker.dev/web/browser-history/windows98.png)
 
 1998년 MS는 그 끼워팔기 때문에 반독점법 소송에 걸려 시정 명령을 받고 회사가 쪼개질 위기까지 갔지만 겨우 항소심에서 승리하여 막아냈고 넷스케이프는 재정 문제 등을 이유로 AOL에 인수당한다. MS는 소송 때문에 고생했지만 이미 시장은 IE가 점령한 상태였기 때문에 넷스케이프의 반등은 불가능했다. 이후 넷스케이프는 AOL의 대규모 정리매각 대상 중 하나가 되었고 이를 MS가 인수하게 된다.
 
@@ -53,7 +53,7 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 ## 제 2차 브라우저 전쟁 (2009 ~ 2015)
 
-![browser-war2](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/browser-war2.png)
+![browser-war2](https://images.hexdrinker.dev/web/browser-history/browser-war2.png)
 
 넷스케이프의 실패는 모질라 재단에게 비영리라는 교훈을 주었다. ES 제정 정통성, 우수한 개발도구 지원 등을 토대로 IE를 상대로 선전하기 시작한다.
 
@@ -63,7 +63,7 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 IE는 독점 시장에서 기술적인 발전은 이루어지지 않는다는 어두운 면을 보여주며 크롬에게 시장의 정복자 자리를 내주었다. 특히나 IE6 ~ 8는 웹 표준을 지키지 않아 많은 문제를 일으켰다. 그리고 2015년 1월, Windows 10 공개 행사에서 MS의 새로운 브라우저 엣지가 처음으로 공개된다. 그에 따라 IE는 더 이상 버전업 되지 않으며 레거시 지원만을 위해 보안 업데이트나 기술 지원만이 지속되게 된다. 엣지의 등장으로 한 시대를 평정했던 IE는 이제 역사의 뒤안길로 점차 사라지게 된다. 아래는 IE의 속도가 느리다는 것을 풍자한 만화이다.
 
-![browser-conversation](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/brwoser-conversation.jpeg)
+![browser-conversation](https://images.hexdrinker.dev/web/browser-history/brwoser-conversation.jpeg)
 
 최종적으로 브라우저 전쟁의 최종 승자는 MS도 모질라 재단도 아닌 구글에게 돌아갔다.
 

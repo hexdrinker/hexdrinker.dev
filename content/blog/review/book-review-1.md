@@ -2,7 +2,7 @@
 title: 📖 비전공자를 위한 이해할 수 있는 IT지식 리뷰
 date: 2020-06-14 12:00:00
 category: Review
-thumbnail: ''
+thumbnail: 'https://images.hexdrinker.dev/thumbnails/book-review-1.gif'
 description: '이 책은 펀딩해서 샀다고 한다,,,'
 tags: ['책', '리뷰']
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 # 🤔 개발자인 네가 이 책을 왜 구매했어?
 
-![](<https://images.velog.io/images/hexdrinker/post/15bb2408-cfdb-4735-8bbe-07dcbc168b4b/book%20(1).jpeg>)
+![book](https://images.hexdrinker.dev/review/book-review-1/book.jpeg)
 
 한 달 정도 전, 페이스북에서 타임라인을 물 흐르듯 지나치다 해당 책의 광고를 보게되었다. 엄밀히 말하면 책 광고는 아니고 펀딩 광고. 텀블벅에서 책의 후원을 받고 있었다.
 

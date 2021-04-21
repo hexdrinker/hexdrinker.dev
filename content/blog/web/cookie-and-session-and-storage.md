@@ -22,13 +22,13 @@ HTTP는 비상태기반(stateless) 프로토콜이다.
 
 ### 쿠키 프로세스
 
-![cookie-process-1](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/cookie-process-1.png)
+![cookie-process-1](https://images.hexdrinker.dev/web/cookie-and-session-and-storage/cookie-process-1.png)
 
 브라우저가 특정 웹 페이지에 접속하거나 리소스를 요청한다. 그러면 서버는 요청받은 웹 페이지나 리소스와 함께 쿠키도 발행하여 함께 전송한다.
 
 클라이언트는 전송받은 쿠키를 로컬에 저장한다.
 
-![cookie-process-2](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/cookie-process-2.png)
+![cookie-process-2](https://images.hexdrinker.dev/web/cookie-and-session-and-storage/cookie-process-2.png)
 
 그 다음 번에 클라이언트가 같은 웹 페이지(서버)에 접속하거나 리소스를 요청할 때 갖고있던 쿠키를 함께 보낸다. 서버는 클라이언트가 보낸 쿠키를 확인하여 어느 클라이언트에서 접속했는지 서버 상의 기록을 확인하여 이전 상태를 알 수 있다.
 

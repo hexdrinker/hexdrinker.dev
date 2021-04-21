@@ -28,7 +28,7 @@ URL이나 URI나 말이 조금 어렵다. URL과 URI가 다른 것은 알겠는�
 
 ## URL의 구성
 
-![url-structure](https://s3.ap-northeast-2.amazonaws.com/static.gracieuxyh.dev/web/url-structure.png)
+![url-structure](https://images.hexdrinker.dev/web/address-story/url-structure.png)
 
 ### 스키마
 
@@ -68,7 +68,7 @@ URL이나 URI나 말이 조금 어렵다. URL과 URI가 다른 것은 알겠는�
 
 > rewrite란 클라이언트 리퀘스트 헤더의 URL을 특정 규칙에 따라 변경하여 리스폰스하는 것을 말한다. 이는 웹 서비스를 보다 유연하고 시맨틱하게 만든다.
 
-예를 들어서 당장 이 포스트의 주소만 하더라도 `https://gracieuxyh.dev/web/address-story`이다. 이는 gracieuxyh.dev라는 도메인 네임을 가진 서버의 web 디렉토리 밑에 address-story란 파일이 있는 것을 말할까? 당연하게도 아니다. 어느 특정 경로에 위치한 이 포스트 파일(리소스)의 주소를 시맨틱하게 rewrite하여 제공함으로서 보다 직관적이고 알기 쉬운 웹 환경을 조성한다.
+예를 들어서 당장 이 포스트의 주소만 하더라도 `https://hexdrinker.dev/web/address-story`이다. 이는 hexdrinker.dev라는 도메인 네임을 가진 서버의 web 디렉토리 밑에 address-story란 파일이 있는 것을 말할까? 당연하게도 아니다. 어느 특정 경로에 위치한 이 포스트 파일(리소스)의 주소를 시맨틱하게 rewrite하여 제공함으로서 보다 직관적이고 알기 쉬운 웹 환경을 조성한다.
 
 이렇듯 최근의 웹의 주소는 URL만으로는 설명하기가 어렵고 URL로 제공되는 웹 사이트도 있지만 진보된 웹 환경에서는 URL이 아니라 URI라고 보는 것이 적합하다.
 
