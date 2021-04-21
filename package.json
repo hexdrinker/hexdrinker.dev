@@ -85,7 +85,7 @@
     "develop": "gatsby clean && gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
-    "deploy": "gatsby-plugin-s3 deploy",
+    "deploy": "npx -n \"-r dotenv/config\" gatsby-plugin-s3 deploy",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }
