@@ -2,7 +2,7 @@
 title: 📖 비전공자를 위한 이해할 수 있는 IT지식 리뷰
 date: 2020-06-14 12:00:00
 category: Review
-thumbnail: 'http://images.hexdrinker.dev.s3-website.ap-northeast-2.amazonaws.com/thumbnails/book-review-1.gif'
+thumbnail: ''
 description: '이 책은 펀딩해서 샀다고 한다,,,'
 tags: ['책', '리뷰']
 draft: false
