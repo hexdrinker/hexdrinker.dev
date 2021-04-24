@@ -69,7 +69,7 @@ Cross Origin Resource Sharing의 약자로 교차 출처 리소스 공유라고 
 ### 서버의 리스폰스 헤더
 
 - `Access-Control-Allow-Origin`: 허용할 출처
-- `Access-Control-Allow-Credentials`: 클라이언트의 요청이 쿠키를 통해서 인증을 해야하는 경우 true. true를 결과로 받은 클라이언트는 실제 요청 시 서버에 정의된 규격의 인증값이 담긴 쿠키를 같이 보내야한다.
+- `Access-Control-Allow-Credentials`: 클라이언트의 요청이 쿠키를 통해서 인증을 해야하는 경우 true. true를 결과로 받은 클라이언트는 실제 요청 시 서버에 정의된 규격의 인증값이 담긴 쿠키를 같이 보내야한다.
 - `Access-Control-Expose-Headers`: 클라이언트 요청에 포함되어도 되는 사용자 정의 헤더
 - `Access-Control-Max-Age`: 클라이언트에서 preflight 요청 결과를 캐시하는 시간(초)
 - `Access-Control-Allow-Methods`: 요청을 허용하는 메소드
@@ -87,4 +87,4 @@ Cross Origin Resource Sharing의 약자로 교차 출처 리소스 공유라고 
 
 3. JSONP 방식으로 요청하기
 
-   웹 브라우저에서 리소스들은 SOP 확인 없이 로딩이 가능하다. 이런 점을 이용해 서버의 리스폰스를 json 파일로 바꿔서 로딩하는 방식이다. 리소스 파일은 GET 메소드 요청으로만 읽어올 수 있기 때문에 GET 메소드 API 요청만이 가능하다.
+   웹 브라우저에서 리소스들은 SOP 확인 없이 로딩이 가능하다. 이런 점을 이용해 서버의 리스폰스를 json 파일로 바꿔서 로딩하는 방식이다. 리소스 파일은 GET 메소드 요청으로만 읽어올 수 있기 때문에 GET 메소드 API 요청만이 가능하다.
