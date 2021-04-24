@@ -1,8 +1,8 @@
 ---
 title: 2여년 간의 BCSD Lab 생활 회고
 date: 2020-03-18 22:03:94
-category: Essay
-thumbnail: ''
+category: Diary
+thumbnail: 'https://images.hexdrinker.dev/thumbnails/bcsdlab-life-retrospect.png'
 description: '그래도 열심히 살았다고 할 수 있다,,,!'
 tags: ['BCSD', '회고']
 draft: false

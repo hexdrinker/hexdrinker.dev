@@ -2,7 +2,7 @@
 title: DEVIEW2019 DAY2 후기
 date: 2019-10-29 18:10:07
 category: Review
-thumbnail: ''
+thumbnail: 'https://images.hexdrinker.dev/thumbnails/deview-2019-day2-review.png'
 description: '내 인생 최초의 데뷰!'
 tags: ['DEVIEW2019', '데뷰', '컨퍼런스', '리뷰']
 draft: false

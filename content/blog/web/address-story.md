@@ -2,7 +2,7 @@
 title: 주소 이야기
 date: 2019-07-28 22:10:31
 category: Web
-thumbnail: ''
+thumbnail: 'https://images.hexdrinker.dev/thumbnails/address-story.jpeg'
 description: 'URL,,, 그,, 그게 뭐였더라'
 tags: ['URL', 'URI', 'URN', 'IP 주소', 'MAC 주소', '도메인', '호스트']
 draft: false
