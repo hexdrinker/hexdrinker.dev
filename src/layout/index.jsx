@@ -10,6 +10,7 @@ import './index.scss'
 
 export const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
+  const maxWidth = location.pathname === "/" ? rhythm(40.5) : rhythm(30);
 
   return (
     <React.Fragment>
@@ -18,7 +19,7 @@ export const Layout = ({ location, title, children }) => {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(40.5),
+          maxWidth,
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >

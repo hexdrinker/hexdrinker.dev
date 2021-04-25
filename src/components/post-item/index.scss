@@ -7,10 +7,10 @@
   width: 20rem;
   margin: 1rem 0.5rem;
 
-  @media (max-width: 1047px) {
+  @media (max-width: $posts-3-align-max-width) {
     width: calc(50% - 1rem);
   }
-  @media (max-width: 719px) {
+  @media (max-width: $posts-2-align-max-width) {
     width: calc(100% - 1rem);
   }
 

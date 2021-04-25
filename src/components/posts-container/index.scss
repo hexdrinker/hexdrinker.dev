@@ -1,10 +1,12 @@
+@import '../../styles//variables.scss';
+
 .posts-container {
   display: flex;
   flex-wrap: wrap;
   width: 63rem;
   margin: 0 auto;
 
-  @media (max-width: 1047px) {
+  @media (max-width: $posts-3-align-max-width) {
     width: 100%;
   }
 }
