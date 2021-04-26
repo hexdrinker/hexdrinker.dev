@@ -80,13 +80,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
       }
-      featuredImg {
-        childImageSharp {
-          fluid {
-            base64
-          }
-        }
-      }
     }
   }
 `
