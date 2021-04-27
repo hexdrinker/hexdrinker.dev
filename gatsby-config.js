@@ -47,6 +47,7 @@ module.exports = {
             options: {
               margin: 36,
               scrollOffset: 0,
+              includedSelector: '.post-container img',
             },
           },
           {
