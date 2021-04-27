@@ -29,7 +29,7 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 모자익을 개발한 마크 앤드리슨은 NCSA를 떠나 넷스케이프 커뮤니케이션을 설립했고 모자익 넷스케이프를 개발한다. 이는 1994년 12월 정식 버전으로 발매되면서 **넷스케이프 네비게이터**라는 이름으로 불리게 되었다.
 
-![netscape-navigator](https://images.hexdrinker.dev/web/browser-history/netscape-navigator.png)
+<p><img class="responsible width-90" src="https://images.hexdrinker.dev/web/browser-history/netscape-navigator.png" alt="netscape-navigator"/></p>
 
 모자익이 WWW의 부흥을 이끌었다면 넷스케이프 네비게이터는 보다 편리하고 뛰어난 성능을 드러내며 WWW의 활용을 일반화했다고 평가받는다. 당시 여러 브라우저들이 경쟁을 했으나 넷스케이프 네비게이터가 뛰어난 성능과 편의성을 바탕으로 경쟁 브라우저들을 압도하며 브라우저 시장을 정복하고 있었다.
 
@@ -45,7 +45,7 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 넷스케이프 네비게이터도 예외는 아니었고 IE가 있음에도 넷스케이프 네비게이터를 설치해서 사용할 정도로 엄청난 차이가 존재하진 않았다. 이러한 끼워팔기 마케팅에 넷스케이프는 처참하게 추락하게 된다.
 
-![windows98](https://images.hexdrinker.dev/web/browser-history/windows98.png)
+<p><img class="responsible width-80" src="https://images.hexdrinker.dev/web/browser-history/windows98.png" alt="windows98"/></p>
 
 1998년 MS는 그 끼워팔기 때문에 반독점법 소송에 걸려 시정 명령을 받고 회사가 쪼개질 위기까지 갔지만 겨우 항소심에서 승리하여 막아냈고 넷스케이프는 재정 문제 등을 이유로 AOL에 인수당한다. MS는 소송 때문에 고생했지만 이미 시장은 IE가 점령한 상태였기 때문에 넷스케이프의 반등은 불가능했다. 이후 넷스케이프는 AOL의 대규모 정리매각 대상 중 하나가 되었고 이를 MS가 인수하게 된다.
 
@@ -53,7 +53,7 @@ NeXTSTEP은 스티브 잡스가 애플에서 쫓겨난 후 설립한 NeXT에서 
 
 ## 제 2차 브라우저 전쟁 (2009 ~ 2015)
 
-![browser-war2](https://images.hexdrinker.dev/web/browser-history/browser-war2.png)
+<p><img class="responsible width-80" src="https://images.hexdrinker.dev/web/browser-history/browser-war2.png" alt="browser-war2"/></p>
 
 넷스케이프의 실패는 모질라 재단에게 비영리라는 교훈을 주었다. ES 제정 정통성, 우수한 개발도구 지원 등을 토대로 IE를 상대로 선전하기 시작한다.
 

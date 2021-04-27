@@ -14,11 +14,11 @@ draft: false
 
 그래서 내 인생 첫 DEVIEW 신청은 DAY2를 하게 되었지만 결과는 실패였다. ~~다만 하늘이 무너져도 데뷰 참가권은 있다고~~ 지인을 통해서 참가권을 양도받아서 참여할 수 있게 되었다.
 
-![데뷰티켓득](https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-0.jpeg)
+<p><img class="responsible width-60" src="https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-0.jpeg" alt="데뷰티켓득" /></p>
 
 코엑스에 도착하니까 이른 시간부터 사람이 많았다. 다들 열정이 대단하다.
 
-![DEVIEW!](https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-1.jpeg)
+<p><img class="responsible width-70" src="https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-1.jpeg" alt="코엑스" /></p>
 
 ## 모바일 시대, 웹브라우저는 더 새로운 웹 경험을 만들 수 있을까?
 
@@ -60,7 +60,7 @@ Docker에 대한 궁금증이 있었던 나는 뭔가 홀린듯 이 세션을 �
 
 막간을 이용한 데뷰 인증
 
-![티켓](https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-2.jpeg)
+<p><img class="responsible width-70" src="https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-2.jpeg" alt="데뷰 인증" /></p>
 
 코엑스 근처에는 식당이 별로 없다. 좀 움직여야지 식당가를 찾을 수 있는데 그 마저도 직장인들의 점심 시간과 겹쳐 복잡할 것이라고 예상한 우리는 코엑스 지하상가 푸드코트를 이용하기로 했다.
 
@@ -123,6 +123,6 @@ CFC는 이름 그대로 하나의 모듈을 기반으로 다양한 프레임워�
 
 그런 점에서 나의 첫 컨퍼런스, 첫 DEVIEW는 성공적이지 않았을까.
 
-![받은것들](https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-3.jpeg)
+<p><img class="responsible width-70" src="https://images.hexdrinker.dev/essay/deview-2019-day2-review/deview-2019-day2-3.jpeg" alt="데뷰 굿즈" /></p>
 
 **_#DEVIEW2019_** **_#DAY2_**

@@ -64,7 +64,7 @@ GUI 환경의 PC가 보급화되면서 응용 프로그램의 시대가 열렸�
 
 또한 리누스 토발즈가 `리눅스(LINUX)`를 개발했고 그는 누구나 소스를 읽은 후 패치를 작성할 수 있게하여 오픈 소스 시장이 발전할 수 있도록 기여했다. 리눅스는 유닉스 기반이지만 핵심 커널 부분은 유닉스와 다르게 구성되어 있다. 또한 각종 주변 기기나 사용 시스템에 따라서 소스를 변경할 수 있어서 다양한 종류의 리눅스가 쏟아져나오게 되었다. 리눅스는 GNU 프로젝트와 결합하여 폭발적인 성장을 이루었고 오늘날에는 많은 수의 웹 서버와 모바일 운영체제의 기반으로 자리잡았다.
 
-![windows95](https://images.hexdrinker.dev/operating-system/os-history/windows95.png)
+<p><img class="responsible width-80" src="https://images.hexdrinker.dev/operating-system/os-history/windows95.png" alt="windows95" /></p>
 
 그리고 마이크로소프트에서 GUI를 도입한 `윈도우 3.1`로 점유율 90%까지 찍으며 흥행시켰다. 그리고 이따라 95년과 98년에 각각 `윈도우 95`와 `윈도우 98`을 출시하며 그 자리를 확고히 했다.
 

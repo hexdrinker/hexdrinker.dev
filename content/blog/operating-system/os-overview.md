@@ -12,7 +12,7 @@ draft: false
 
 ## 컴퓨터 시스템 요소
 
-![computing-sytstem](https://images.hexdrinker.dev/operating-system/os-overview/computing-system.png)
+<p><img class="responsible width-50" src="https://images.hexdrinker.dev/operating-system/os-overview/computing-system.png" alt="computing-system" /></p>
 
 컴퓨터 시스템은 하드웨어, 운영체제, 응용 프로그램, 사용자로 나눌 수 있다.
 
