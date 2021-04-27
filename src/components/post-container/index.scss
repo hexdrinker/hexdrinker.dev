@@ -1,0 +1,18 @@
+@import '../../styles//variables.scss';
+
+img {
+  width: auto;
+  &.responsible {
+    @for $i from 5 through 10 {
+      $base: 10;
+      $width: $base * $i;
+      &.width-#{$width} {
+        width: $width + 0%;
+      }
+    }
+
+    @media (max-width: $post-contents-mobile-width) {
+      width: auto !important;
+    }
+  }
+}
