@@ -7,6 +7,7 @@ export const PostContainer = ({ html }) => {
     images.forEach(image => {
       image.parentNode.style.display = "flex"
       image.parentNode.style.justifyContent = "center"
+      image.parentNode.style.alignItems = "center"
     })
   }, []);
 

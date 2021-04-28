@@ -1,5 +1,5 @@
 ---
-title: AWS로 정적 웹 사이트 배포하기
+title: AWS로 정적 웹 사이트 배포하기 1
 date: 2021-04-25 12:33:00
 category: AWS
 thumbnail: 'https://images.hexdrinker.dev/thumbnails/aws.png'
