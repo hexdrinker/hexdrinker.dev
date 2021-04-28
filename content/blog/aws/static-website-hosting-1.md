@@ -10,7 +10,7 @@ draft: false
 
 ## 블로그를 리뉴얼했다.
 
-블로그 리뉴얼에 관한 사항은 [해당 글](https://hexdrinker.dev/diary/blog-renewal)을 참조 바란다.<br />
+블로그 리뉴얼에 관한 사항은 [해당 글](https://hexdrinker.dev/diary/blog-renewal/)을 참조 바란다.<br />
 블로그 UI를 다 다듬고 나서 본격적으로 포스트들을 이전하기 전에 배포를 먼저 하고자 했다.
 
 이전 블로그는 netlify를 이용해서 배포했고 이용 경험이 압도적으로 준수해서 자연스럽게 이번에도 netlify로 배포를 진행했다.<br />
