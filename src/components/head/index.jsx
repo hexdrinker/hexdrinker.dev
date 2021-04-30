@@ -10,7 +10,7 @@ export function Head({ description, lang, meta, keywords, title, ogImage }) {
       render={data => {
         const metaDescription =
           description || data.site.siteMetadata.description
-        const metaOGImage = ogImage || data.site.siteMetadata.dafaultOGImage
+        const metaOGImage = ogImage || data.site.siteMetadata.defaultOGImage
         return (
           <Helmet
             htmlAttributes={{

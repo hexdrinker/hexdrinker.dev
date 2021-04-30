@@ -29,7 +29,7 @@ export default ({ data, pageContext, location }) => {
   const { title, comment, siteUrl, author, sponsor } = metaData
   const { disqusShortName, utterances } = comment
   const { title: postTitle, date, thumbnail, description } = post.frontmatter
-  console.log(post)
+
   return (
     <Layout location={location} title={title}>
       <Head title={postTitle} description={description} ogImage={thumbnail} />

@@ -28,7 +28,7 @@ export default ({ data, location }) => {
     () => _.uniq(posts.map(({ node }) => node.frontmatter.category)),
     []
   )
-  console.log(data);
+
   const [count, countRef, increaseCount] = useRenderedCount()
   const [category, selectCategory] = useCategory()
 
