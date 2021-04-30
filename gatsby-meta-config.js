@@ -3,29 +3,28 @@ module.exports = {
   description: `hexdrinker의 기,,기술 블로그임니다..👨🏻‍💻📝🤪`,
   author: `hexdrinker`,
   introduction: `Software Engineer at Backpackr`,
-  siteUrl: `https://hexdrinker.dev`, // Your blog site url
+  siteUrl: `https://hexdrinker.dev`,
   social: {
-    twitter: ``, // Your Twitter account
-    github: `hexdrinker`, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: `hexdrinker2020`, // Your Facebook account
-    linkedin: `hexdrinker`, // Your LinkedIn account
-    instagram: `hexxdrinker`, // Your Instagram account
+    github: `hexdrinker`,
+    facebook: `hexdrinker2020`,
+    linkedin: `hexdrinker`,
+    instagram: `hexxdrinker`,
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  defaultOGImage: `https://images.hexdrinker.dev/thumbnails/profile.png`,
+  icon: `content/assets/felog.png`,
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'hexdrinker/hexdrinker.dev', // Your repository for archive comment
+    disqusShortName: '',
+    utterances: 'hexdrinker/hexdrinker.dev',
   },
   configs: {
-    countOfInitialPost: 10, // Config your initial count of post
+    countOfInitialPost: 10,
   },
   sponsor: {
     buyMeACoffeeId: 'hexdrinker',
   },
   share: {
-    facebookAppId: '278528153879435', // Add facebookAppId for using facebook share feature v3.2
+    facebookAppId: '278528153879435', // facebookAppId for using facebook share feature v3.2
   },
   ga: {
     old: 'UA-194763305-1',

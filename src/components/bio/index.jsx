@@ -102,9 +102,7 @@ const bioQuery = graphql`
         author
         introduction
         social {
-          twitter
           github
-          medium
           facebook
           linkedin
           instagram
