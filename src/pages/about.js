@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
+import { Head } from '../components/head'
 
 export default ({ data }) => {
   const resumes = data.allMarkdownRemark.edges
@@ -22,6 +23,7 @@ export default ({ data }) => {
         )}`,
       }}
     >
+      <Head title={"about hexdrinker"} description={"안녕하세요. hexdrinker입니다."} />
       <div dangerouslySetInnerHTML={{ __html: resume.html }} />
     </div>
   )
