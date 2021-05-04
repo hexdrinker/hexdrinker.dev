@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import { Layout } from '../layout'
 import { Head } from '../components/head'
 
-const browser = typeof window !== "undefined" && window;
+const browser = typeof window !== "undefined" && window
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
