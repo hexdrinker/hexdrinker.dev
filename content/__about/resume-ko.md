@@ -1,21 +1,21 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
-lang: 'en'
+date: 2020-05-07 16:21:13
+lang: 'ko'
 ---
 
 # about hexdrinker
 
 <div class="resume">
 
-<p style="font-size: 1.25rem;">Coming Soon</p>
+<img src="https://images.hexdrinker.dev/thumbnails/profile.png"/>
 
-<!-- <img src="https://images.hexdrinker.dev/thumbnails/profile.png"/>
+<p style="font-size: 1.25rem;">Coming Soon...</p>
 
-<p>👨🏻‍💻 </p>
-<p>🧐 </p>
-<p>🛠 </p>
-<p>🧑🏻‍🏫 </p>
+<!-- <p>👨🏻‍💻 &nbsp;이것저것 다방면에 관심이 많은 개발자입니다.</p>
+<p>🧐 &nbsp;그 중 웹과 인프라에 대해 관심이 많습니다.</p>
+<p>🛠 &nbsp;기술이나 지식에 대한 배움의 욕구가 강하고 이를 즐깁니다.</p>
+<p>🧑🏻‍🏫 &nbsp;무언가를 배우고 이해한 뒤 복습하고 정리하는 용도로 블로그를 이용합니다.</p>
 
   <br />
 
