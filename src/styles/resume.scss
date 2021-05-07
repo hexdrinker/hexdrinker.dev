@@ -1,5 +1,15 @@
-.resume {
-  .list {
-    font-size: 18px;
+.resume-container {
+  .resume {
+    .list {
+      font-size: 18px;
+    }
+  }
+  .footer {
+    span {
+      cursor: pointer;
+      &.active {
+        cursor: initial;
+      }
+    }
   }
 }
