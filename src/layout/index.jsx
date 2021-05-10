@@ -8,7 +8,7 @@ import { rhythm } from '../utils/typography'
 
 import './index.scss'
 
-export const Layout = ({ location, title, children }) => {
+export const Layout = ({ location, title, selectCategory, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const maxWidth = location.pathname === "/" ? rhythm(40.5) : rhythm(30);
 
@@ -24,7 +24,7 @@ export const Layout = ({ location, title, children }) => {
         }}
       >
         <ThemeSwitch />
-        <Header title={title} location={location} rootPath={rootPath} />
+        <Header title={title} location={location} rootPath={rootPath} selectCategory={selectCategory} />
           {children}
         <Footer />
       </div>

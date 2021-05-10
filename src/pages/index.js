@@ -46,7 +46,7 @@ export default ({ data, location }) => {
   })
 
   return (
-    <Layout location={location} title={siteMetadata.title}>
+    <Layout location={location} title={siteMetadata.title} selectCategory={selectCategory}>
       <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
       <Bio />
       <Category
